@@ -62,7 +62,7 @@ Each folder contains a README.md to explain what was learned and any relevant in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/learning.git
+git clone https://github.com/victorj2307/learning.git
 ```
 
 2. Navigate to the folder of interest:
