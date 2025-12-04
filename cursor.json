@@ -1,0 +1,17 @@
+{
+  "indexing": {
+    "exclude": [
+      "node_modules",
+      "dist",
+      "bin",
+      "obj",
+      ".git",
+      "**/docker-data",
+      "**/coverage",
+      "**/.cache"
+    ]
+  },
+  "experiments": {
+    "vibe_coding": true
+  }
+}
